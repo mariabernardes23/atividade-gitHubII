@@ -1,0 +1,163 @@
+body{
+  margin: 0;
+  font-family: 'Dosis', sans-serif;
+}
+
+.corFundo{
+  background-color: #003049;
+  padding: 10px 0px 10px 0px;
+}
+
+.logoNome{
+  display: flex;
+  justify-content: center;
+}
+
+#logo{
+  width: 300px;
+}
+
+#nome{
+  font-size: 5rem;
+  align-self: center;
+  color: white;
+  margin-left: 10px;
+}
+
+nav{
+  background-color: #F77F00;
+  padding-left: 110px;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li{
+  float: left;
+}
+
+nav li a, .botao{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover, .submenu:hover .botao{
+  background-color: #FCBF49;
+}
+
+nav li.submenu{
+  display: inline-block;
+}
+
+.itens{
+  display: none;
+  position: absolute;
+  background-color: #FCBF49;
+}
+
+.itens a{
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.itens a:hover{
+  background-color: #FFB703;
+}
+
+.submenu:hover .itens{
+  display: block;
+}
+
+.conteudo{
+  margin: 0 120px 0 120px;
+  padding-bottom: 10px;
+}
+
+.conteudo p{ 
+  font-size: 1.3rem;
+  text-align: justify;
+  line-height: 30px;
+}
+
+.conteudo h1{
+  font-weight: bold;
+  color: #F77F00;
+}
+
+.titulo{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.titulo img{
+  width: 40px;
+  height: 40px;
+}
+
+.titulo h1{
+  align-self: center;
+  margin: 0;
+  margin-left: 5px;
+}
+
+table{
+  display: inline;
+}
+
+tr:nth-child(even){
+  background-color: #E0F4FF;
+}
+
+th, td{
+  font-size: 1.3rem;
+  line-height: 30px;
+  padding: 8px;
+}
+
+th{
+  text-align: center;
+  background-color: #023047;
+  color: white;
+}
+
+td{
+  text-align: left;
+}
+
+#tabela1{
+  margin: 0 10px 0 200px;
+}
+
+#tabela2{
+  margin: 0 10px 20px 100px;
+}
+
+#tabela3{
+  margin-left: 450px;
+}
+
+span{
+  color: #F77F00;
+}
+
+.rodape{
+  background-color: #003049;
+  padding: 1px;
+}
+
+.rodape p{
+  font-size: 0.75rem;
+  text-align: center;
+  color: white;
+}
