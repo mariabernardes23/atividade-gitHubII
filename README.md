@@ -15,13 +15,11 @@ A minha intenção com este projeto é construir uma compreensão sólida de com
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#FFFFFF](https://via.placeholder.com/10/0a192f?text=+) #FFFFFF |
-| Cor exemplo       | ![#003049](https://via.placeholder.com/10/f8f8f8?text=+) #003049 |
-| Cor exemplo       | ![#F77F00](https://via.placeholder.com/10/00b48a?text=+) ##F77F00|
-| Cor exemplo       | ![#FCBF49](https://via.placeholder.com/10/00b48a?text=+) #FCBF49 |
-| Cor exemplo       | ![#FCBF49](https://via.placeholder.com/10/00b48a?text=+) #FCBF49 |
-| Cor exemplo       | ![#FFB703](https://via.placeholder.com/10/00b48a?text=+) #FFB703 |
-| Cor exemplo       | ![#F77F00](https://via.placeholder.com/10/00b48a?text=+) #F77F00 |
-| Cor exemplo       | ![#E0F4FF](https://via.placeholder.com/10/00b48a?text=+) #E0F4FF |
-| Cor exemplo       | ![#023047](https://via.placeholder.com/10/00b48a?text=+) #023047 |
-| Cor exemplo       | ![#003049](https://via.placeholder.com/10/00b48a?text=+) #003049 |
+| Cor exemplo       | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Cor exemplo       | ![#FCBF49](https://via.placeholder.com/10/FCBF49?text=+) #FCBF49 |
+| Cor exemplo       | ![#FCBF49](https://via.placeholder.com/10/FCBF49?text=+) #FCBF49 |
+| Cor exemplo       | ![#FFB703](https://via.placeholder.com/10/FFB703?text=+) #FFB703 |
+| Cor exemplo       | ![#F77F00](https://via.placeholder.com/10/F77F00?text=+) #F77F00 |
+| Cor exemplo       | ![#E0F4FF](https://via.placeholder.com/10/E0F4FF?text=+) #E0F4FF |
+| Cor exemplo       | ![#023047](https://via.placeholder.com/10/023047?text=+) #023047 |
+| Cor exemplo       | ![#003049](https://via.placeholder.com/10/003049?text=+) #003049 |
