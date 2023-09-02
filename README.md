@@ -1,17 +1,21 @@
-# PetShop Mundo Animal
+# 😺 PetShop Mundo Animal
 
 Seja muito bem-vindo ao meu projeto pessoal de criação do blog para o PetShop Mundo Animal, onde vou explorar e aprender os conceitos básicos de HTML e CSS.
 
-## Aprendizados
+## 📚 Aprendizados
 
 Neste projeto, estou embarcando em uma jornada de aprendizado para entender como utilizar o HTML e o CSS de maneira eficaz. Vou mergulhar na construção de um blog completo para o PetShop Mundo Animal, usando essas linguagens como minhas principais ferramentas.
 A minha intenção com este projeto é construir uma compreensão sólida de como estruturar o conteúdo de uma página web com HTML, organizando tudo de forma lógica e acessível. Além disso, vou explorar como o CSS pode ser aplicado para dar vida ao design, deixando o blog esteticamente agradável e visualmente atrativo.
 
-## imagem do Projeto
+## 📸 Imagem do Projeto
 
 ![prtShop](https://github.com/mariabernardes23/atividade-gitHubII/assets/99373514/45e6529b-c751-4031-9c25-ae5dab46ae46)
 
-## Documentação de cores
+## 🛠 Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+## 🎨 Documentação de cores
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
